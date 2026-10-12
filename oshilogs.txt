@@ -12,389 +12,308 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Rifka =====
-[1]Rifka       |08:37:23 | 11-10-2026| login OK @rifkagayatri | score=860 rank=6774
-[1]Rifka       |08:37:23 | 11-10-2026| serverTime=2026-10-11T08:37:23.000Z local=2026-10-11T08:37:23.155Z
+[1]Rifka       |15:04:32 | 12-10-2026| login OK @rifkagayatri | score=900 rank=6828
+[1]Rifka       |15:04:32 | 12-10-2026| serverTime=2026-10-12T15:04:32.000Z local=2026-10-12T15:04:32.574Z
 --> [1]Rifka menjalankan: Claim Daily
-[1]Rifka       |08:37:25 | 11-10-2026| daily: sudah klaim (already=true) score=860
---> [1]Rifka menjalankan: Auto All Tasks (3 pending)
-[1]Rifka       |08:37:26 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109201180203595113
-[1]Rifka       |08:37:26 | 11-10-2026| delay 10s...
-[1]Rifka       |08:37:38 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109201186656546969
-[1]Rifka       |08:37:38 | 11-10-2026| delay 10s...
-[1]Rifka       |08:37:51 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109201169661040771
-[1]Rifka       |08:37:51 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Rifka       |08:37:52 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/rifkagayatri/status/2109201485136668247
+[1]Rifka       |15:04:33 | 12-10-2026| daily: OK +10 poin score=910
+--> [1]Rifka menjalankan: Auto All Tasks (9 pending)
+[1]Rifka       |15:04:35 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661156792712246
+[1]Rifka       |15:04:35 | 12-10-2026| delay 10s...
+[1]Rifka       |15:04:47 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661005259070979
+[1]Rifka       |15:04:47 | 12-10-2026| delay 10s...
+[1]Rifka       |15:04:59 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661273497433900
+[1]Rifka       |15:04:59 | 12-10-2026| delay 10s...
+[1]Rifka       |15:05:11 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661226594276225
+[1]Rifka       |15:05:11 | 12-10-2026| delay 10s...
+[1]Rifka       |15:05:23 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Rifka       |15:05:23 | 12-10-2026| delay 10s...
+[1]Rifka       |15:05:36 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661244469732388
+[1]Rifka       |15:05:36 | 12-10-2026| delay 10s...
+[1]Rifka       |15:05:48 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661348916039254
+[1]Rifka       |15:05:48 | 12-10-2026| delay 10s...
+[1]Rifka       |15:06:00 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/rifkagayatri/status/2109661461726120686
+[1]Rifka       |15:06:00 | 12-10-2026| delay 10s...
+[1]Rifka       |15:06:12 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Rifka       |15:06:12 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rifka       |15:06:14 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/rifkagayatri/status/2109661341788842199
 --> [1]Rifka menjalankan: Watch Anime
-[1]Rifka       |08:37:54 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep6
-[1]Rifka       |08:37:54 | 11-10-2026| watch [1/2] farming oshi-first-journey...
-[1]Rifka       |08:37:56 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Rifka       |08:38:03 | 11-10-2026| watch oshi-first-journey: 5% (5.19/87.00s)
-[1]Rifka       |08:38:09 | 11-10-2026| watch oshi-first-journey: 13% (11.49/87.00s)
-[1]Rifka       |08:38:17 | 11-10-2026| watch oshi-first-journey: 19% (17.27/87.00s)
-[1]Rifka       |08:38:23 | 11-10-2026| watch oshi-first-journey: 27% (23.74/87.00s)
-[1]Rifka       |08:38:29 | 11-10-2026| watch oshi-first-journey: 33% (29.56/87.00s)
-[1]Rifka       |08:38:38 | 11-10-2026| watch oshi-first-journey: 40% (34.96/87.00s)
-[1]Rifka       |08:38:46 | 11-10-2026| watch oshi-first-journey: 49% (42.97/87.00s)
-[1]Rifka       |08:38:53 | 11-10-2026| watch oshi-first-journey: 57% (50.09/87.00s)
-[1]Rifka       |08:39:01 | 11-10-2026| watch oshi-first-journey: 65% (56.73/87.00s)
-[1]Rifka       |08:39:11 | 11-10-2026| watch oshi-first-journey: 73% (63.63/87.00s)
-[1]Rifka       |08:39:17 | 11-10-2026| watch oshi-first-journey: 73% (63.63/87.00s)
-[1]Rifka       |08:39:23 | 11-10-2026| watch oshi-first-journey: 79% (69.05/87.00s)
-[1]Rifka       |08:39:29 | 11-10-2026| watch oshi-first-journey: 85% (74.75/87.00s)
-[1]Rifka       |08:39:36 | 11-10-2026| watch oshi-first-journey: 89% (78.15/87.00s)
-[1]Rifka       |08:40:23 | 11-10-2026| watch oshi-first-journey: posisi mentok tanpa completed, stop
-[1]Rifka       |08:40:28 | 11-10-2026| watch [2/2] farming ep6...
-[1]Rifka       |08:40:28 | 11-10-2026| watch ep6: mulai dari 0 (record 354.6s diabaikan)
-[1]Rifka       |08:40:30 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:40:36 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:40:45 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:40:52 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:40:59 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:41:05 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:41:13 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:41:21 | 11-10-2026| watch ep6: 87% (354.58/404.00s)
-[1]Rifka       |08:41:27 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:41:34 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:41:41 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:41:49 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:41:55 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:01 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:07 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:13 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:21 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:31 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:38 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:46 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:42:54 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:43:01 | 11-10-2026| watch ep6: 88% (356.41/404.00s)
-[1]Rifka       |08:43:08 | 11-10-2026| watch ep6: 88% (357.05/404.00s)
-[1]Rifka       |08:43:15 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:43:21 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:43:30 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:43:38 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:43:45 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:43:54 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:44:02 | 11-10-2026| watch ep6: 88% (357.40/404.00s)
-[1]Rifka       |08:44:11 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:21 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:28 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:35 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:42 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:49 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:44:55 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:45:01 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:45:08 | 11-10-2026| watch ep6: 88% (357.64/404.00s)
-[1]Rifka       |08:45:14 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:21 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:28 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:34 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:42 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:49 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:45:57 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:05 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:11 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:18 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:25 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:32 | 11-10-2026| watch ep6: 88% (357.94/404.00s)
-[1]Rifka       |08:46:41 | 11-10-2026| watch ep6: 88% (358.46/404.00s)
-[1]Rifka       |08:46:47 | 11-10-2026| watch ep6: 88% (358.46/404.00s)
-[1]Rifka       |08:46:54 | 11-10-2026| watch ep6: 88% (358.46/404.00s)
-[1]Rifka       |08:47:03 | 11-10-2026| watch ep6: 88% (358.46/404.00s)
-[1]Rifka       |08:47:11 | 11-10-2026| watch ep6: 89% (359.82/404.00s)
-[1]Rifka       |08:47:19 | 11-10-2026| watch ep6: 90% (366.52/404.00s)
-[1]Rifka       |08:47:19 | 11-10-2026| watch ep6: COMPLETED (366.52/404.00s)
+[1]Rifka       |15:06:15 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Rifka       |15:06:15 | 12-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Rifka       |15:06:16 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 78.1s diabaikan)
+[1]Rifka       |15:06:17 | 12-10-2026| watch oshi-first-journey: 89% (78.15/87.00s)
+[1]Rifka       |15:06:23 | 12-10-2026| watch oshi-first-journey: 89% (78.15/87.00s)
+[1]Rifka       |15:06:29 | 12-10-2026| watch oshi-first-journey: 89% (78.15/87.00s)
+[1]Rifka       |15:06:35 | 12-10-2026| watch oshi-first-journey: 89% (78.15/87.00s)
+[1]Rifka       |15:06:42 | 12-10-2026| watch oshi-first-journey: 90% (78.34/87.00s)
+[1]Rifka       |15:06:42 | 12-10-2026| watch oshi-first-journey: COMPLETED (78.34/87.00s)
 --> [1]Rifka menjalankan: Read Article
-[1]Rifka       |08:47:21 | 11-10-2026| news: 0/24 artikel selesai dibaca
-[1]Rifka       |08:47:22 | 11-10-2026| mint eligibility: {"userId":"1876228153850675200","youtube":{"url":"https://www.youtube.com/@grifkaa","status":"submitted","revision":"56889b82-bdbd-4a36-b277-427d83714d5d","submittedAt":1791680441,"reviewedAt":1791680
-[1]Rifka       |08:47:30 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
-[1]Rifka       |08:47:44 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
-[1]Rifka       |08:47:56 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
-[1]Rifka       |08:47:59 | 11-10-2026| news spaceship-and-studio-friends: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news swap-arena-stars-guide: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news kagura-airdrop-guide: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news oshi-clash-complete-guide: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news oshi-clash-launch: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news smart-pocket-monthly-2026-09: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news oshi-labs-monthly-2026-09: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news oshi-news-launch: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news yuki-character-design: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news smart-pocket-mobile-apps: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news smart-pocket-read-a-card: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news start-your-fan-creation: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news complete-your-first-task: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news understand-the-rankings: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news unlock-and-save-icons: view GAGAL http=503
-[1]Rifka       |08:47:59 | 11-10-2026| news start-here: view GAGAL http=503
-[1]Rifka       |08:48:01 | 11-10-2026| news what-is-free-mint: view GAGAL http=503
-[1]Rifka       |08:48:01 | 11-10-2026| news what-is-nft: view GAGAL http=503
-[1]Rifka       |08:48:02 | 11-10-2026| news prepare-your-wallet: view GAGAL http=503
-[1]Rifka       |08:48:02 | 11-10-2026| news find-your-anime: view GAGAL http=503
-[1]Rifka       |08:48:02 | 11-10-2026| news smart-pocket-first-steps: view GAGAL http=503
+[1]Rifka       |15:06:43 | 12-10-2026| news: 3/24 artikel selesai dibaca
+[1]Rifka       |15:06:43 | 12-10-2026| mint eligibility: {"userId":"1876228153850675200","youtube":{"url":"https://www.youtube.com/@grifkaa","status":"submitted","revision":"56889b82-bdbd-4a36-b277-427d83714d5d","submittedAt":1791680441,"reviewedAt":1791680
+[1]Rifka       |15:06:50 | 12-10-2026| news [1/21] spaceship-and-studio-friends: OK completed=4
+[1]Rifka       |15:06:58 | 12-10-2026| news [2/21] swap-arena-stars-guide: OK completed=5
+[1]Rifka       |15:07:07 | 12-10-2026| news [3/21] kagura-airdrop-guide: OK completed=6
+[1]Rifka       |15:07:16 | 12-10-2026| news [4/21] oshi-clash-complete-guide: OK completed=7
+[1]Rifka       |15:07:25 | 12-10-2026| news [5/21] oshi-clash-launch: OK completed=8
+[1]Rifka       |15:07:37 | 12-10-2026| news [6/21] smart-pocket-monthly-2026-09: OK completed=9
+[1]Rifka       |15:07:46 | 12-10-2026| news [7/21] oshi-labs-monthly-2026-09: OK completed=10
+[1]Rifka       |15:07:54 | 12-10-2026| news [8/21] oshi-news-launch: OK completed=11
+[1]Rifka       |15:08:03 | 12-10-2026| news [9/21] yuki-character-design: OK completed=12
+[1]Rifka       |15:08:11 | 12-10-2026| news [10/21] smart-pocket-mobile-apps: OK completed=13
+[1]Rifka       |15:08:21 | 12-10-2026| news [11/21] smart-pocket-read-a-card: OK completed=14
+[1]Rifka       |15:08:29 | 12-10-2026| news [12/21] start-your-fan-creation: OK completed=15
+[1]Rifka       |15:08:37 | 12-10-2026| news [13/21] complete-your-first-task: OK completed=16
+[1]Rifka       |15:08:46 | 12-10-2026| news [14/21] understand-the-rankings: OK completed=17
+[1]Rifka       |15:08:57 | 12-10-2026| news [15/21] unlock-and-save-icons: OK completed=18
+[1]Rifka       |15:09:05 | 12-10-2026| news [16/21] start-here: OK completed=19
+[1]Rifka       |15:09:14 | 12-10-2026| news [17/21] what-is-free-mint: OK completed=20
+[1]Rifka       |15:09:22 | 12-10-2026| news [18/21] what-is-nft: OK completed=21
+[1]Rifka       |15:09:30 | 12-10-2026| news [19/21] prepare-your-wallet: OK completed=22
+[1]Rifka       |15:09:40 | 12-10-2026| news [20/21] find-your-anime: OK completed=23
+[1]Rifka       |15:09:49 | 12-10-2026| news [21/21] smart-pocket-first-steps: OK completed=24
 --> [1]Rifka menjalankan: Quiz Anime
-[1]Rifka       |08:48:02 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Rifka       |15:09:54 | 12-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Rifka       |15:09:59 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Rifka       |15:10:05 | 12-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Rifka       |15:10:10 | 12-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Rifka       |15:10:16 | 12-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Rifka       |15:10:21 | 12-10-2026| quiz ep6: BENAR (1) +10 poin
 --> [1]Rifka menjalankan: Music Missions (realtime, bisa lama!)
-[1]Rifka       |08:48:02 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Rifka       |08:48:03 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Rifka       |15:10:27 | 12-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Rifka       |15:10:40 | 12-10-2026| music "この手は覚えてる": 9% (9.001800000000001/94s)
+[1]Rifka       |15:10:51 | 12-10-2026| music "この手は覚えてる": 21% (19.926900000000003/94s)
+[1]Rifka       |15:11:02 | 12-10-2026| music "この手は覚えてる": 31% (30.021300000000004/94s)
+[1]Rifka       |15:11:14 | 12-10-2026| music "この手は覚えてる": 42% (40.327200000000005/94s)
+[1]Rifka       |15:11:26 | 12-10-2026| music "この手は覚えてる": 53% (50.558400000000006/94s)
+[1]Rifka       |15:11:37 | 12-10-2026| music "この手は覚えてる": 65% (61.53030000000001/94s)
+[1]Rifka       |15:11:48 | 12-10-2026| music "この手は覚えてる": 76% (71.5374/94s)
+[1]Rifka       |15:11:59 | 12-10-2026| music "この手は覚えてる": 86% (81.5292/94s)
+[1]Rifka       |15:12:00 | 12-10-2026| music "この手は覚えてる": selesai 81.5292s
+[1]Rifka       |15:12:03 | 12-10-2026| music memutar "キャンバス" (125s)...
+[1]Rifka       |15:12:14 | 12-10-2026| music "キャンバス": 7% (9.0045/125s)
+[1]Rifka       |15:12:25 | 12-10-2026| music "キャンバス": 15% (19.056600000000003/125s)
+[1]Rifka       |15:12:37 | 12-10-2026| music "キャンバス": 23% (29.046600000000005/125s)
+[1]Rifka       |15:12:48 | 12-10-2026| music "キャンバス": 31% (39.395700000000005/125s)
+[1]Rifka       |15:12:59 | 12-10-2026| music "キャンバス": 39% (49.3785/125s)
+[1]Rifka       |15:13:13 | 12-10-2026| music "キャンバス": 47% (59.790600000000005/125s)
+[1]Rifka       |15:13:24 | 12-10-2026| music "キャンバス": 57% (71.8497/125s)
+[1]Rifka       |15:13:35 | 12-10-2026| music "キャンバス": 65% (81.837/125s)
+[1]Rifka       |15:13:46 | 12-10-2026| music "キャンバス": 73% (91.80000000000001/125s)
+[1]Rifka       |15:13:57 | 12-10-2026| music "キャンバス": 81% (101.75760000000001/125s)
+[1]Rifka       |15:13:58 | 12-10-2026| music "キャンバス": selesai 101.75760000000001s
+[1]Rifka       |15:14:03 | 12-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Rifka       |15:14:14 | 12-10-2026| music "ゆっくり帰ろう": 5% (9.0063/153s)
+[1]Rifka       |15:14:25 | 12-10-2026| music "ゆっくり帰ろう": 12% (19.259999999999998/153s)
+[1]Rifka       |15:14:36 | 12-10-2026| music "ゆっくり帰ろう": 19% (29.3859/153s)
+[1]Rifka       |15:14:48 | 12-10-2026| music "ゆっくり帰ろう": 25% (39.433499999999995/153s)
+[1]Rifka       |15:14:59 | 12-10-2026| music "ゆっくり帰ろう": 32% (49.455/153s)
+[1]Rifka       |15:15:11 | 12-10-2026| music "ゆっくり帰ろう": 39% (60.013799999999996/153s)
+[1]Rifka       |15:15:22 | 12-10-2026| music "ゆっくり帰ろう": 45% (70.3755/153s)
+[1]Rifka       |15:15:33 | 12-10-2026| music "ゆっくり帰ろう": 52% (80.4438/153s)
+[1]Rifka       |15:15:54 | 12-10-2026| music "ゆっくり帰ろう": 59% (90.6813/153s)
+[1]Rifka       |15:16:05 | 12-10-2026| music "ゆっくり帰ろう": 71% (108.9117/153s)
+[1]Rifka       |15:16:16 | 12-10-2026| music "ゆっくり帰ろう": 77% (118.9323/153s)
+[1]Rifka       |15:16:28 | 12-10-2026| music "ゆっくり帰ろう": 84% (129.0132/153s)
+[1]Rifka       |15:16:28 | 12-10-2026| music "ゆっくり帰ろう": 80% belum counted, lanjut ke 100%...
+[1]Rifka       |15:16:39 | 12-10-2026| music "ゆっくり帰ろう": 91% (140.05710000000002/153s)
+[1]Rifka       |15:16:50 | 12-10-2026| music "ゆっくり帰ろう": 98% (150.05880000000002/153s)
+[1]Rifka       |15:17:02 | 12-10-2026| music "ゆっくり帰ろう": 100% (153/153s)
+[1]Rifka       |15:17:02 | 12-10-2026| music "ゆっくり帰ろう": selesai 153s
+[1]Rifka       |15:17:07 | 12-10-2026| music memutar "うたかた" (185s)...
+[1]Rifka       |15:17:18 | 12-10-2026| music "うたかた": 4% (9.0054/185s)
+[1]Rifka       |15:17:29 | 12-10-2026| music "うたかた": 10% (18.987299999999998/185s)
+[1]Rifka       |15:17:40 | 12-10-2026| music "うたかた": 15% (29.266199999999998/185s)
+[1]Rifka       |15:17:51 | 12-10-2026| music "うたかた": 21% (39.2724/185s)
+[1]Rifka       |15:18:03 | 12-10-2026| music "うたかた": 26% (49.302/185s)
+[1]Rifka       |15:18:15 | 12-10-2026| music "うたかた": 32% (59.436/185s)
+[1]Rifka       |15:18:26 | 12-10-2026| music "うたかた": 38% (70.5627/185s)
+[1]Rifka       |15:18:38 | 12-10-2026| music "うたかた": 43% (80.55630000000001/185s)
+[1]Rifka       |15:18:50 | 12-10-2026| music "うたかた": 49% (91.1997/185s)
+[1]Rifka       |15:19:01 | 12-10-2026| music "うたかた": 54% (101.63340000000001/185s)
+[1]Rifka       |15:19:13 | 12-10-2026| music "うたかた": 60% (111.66390000000001/185s)
+[1]Rifka       |15:19:24 | 12-10-2026| music "うたかた": 66% (122.56560000000002/185s)
+[1]Rifka       |15:19:35 | 12-10-2026| music "うたかた": 71% (132.60780000000003/185s)
+[1]Rifka       |15:19:46 | 12-10-2026| music "うたかた": 77% (142.61490000000003/185s)
+[1]Rifka       |15:19:58 | 12-10-2026| music "うたかた": 82% (152.63100000000003/185s)
+[1]Rifka       |15:19:59 | 12-10-2026| music "うたかた": selesai 152.63100000000003s
+[1]Rifka       |15:20:01 | 12-10-2026| music memutar "ぬくもり" (188s)...
+[1]Rifka       |15:20:13 | 12-10-2026| music "ぬくもり": 4% (9.0054/188s)
+[1]Rifka       |15:20:24 | 12-10-2026| music "ぬくもり": 10% (19.039499999999997/188s)
+[1]Rifka       |15:20:35 | 12-10-2026| music "ぬくもり": 15% (29.131199999999996/188s)
+[1]Rifka       |15:20:47 | 12-10-2026| music "ぬくもり": 20% (39.1455/188s)
+[1]Rifka       |15:20:58 | 12-10-2026| music "ぬくもり": 26% (49.914/188s)
+[1]Rifka       |15:21:09 | 12-10-2026| music "ぬくもり": 31% (59.9328/188s)
+[1]Rifka       |15:21:20 | 12-10-2026| music "ぬくもり": 37% (69.9201/188s)
+[1]Rifka       |15:21:32 | 12-10-2026| music "ぬくもり": 42% (80.0865/188s)
+[1]Rifka       |15:21:43 | 12-10-2026| music "ぬくもり": 47% (90.2268/188s)
+[1]Rifka       |15:21:54 | 12-10-2026| music "ぬくもり": 53% (100.2573/188s)
+[1]Rifka       |15:22:05 | 12-10-2026| music "ぬくもり": 58% (110.385/188s)
+[1]Rifka       |15:22:16 | 12-10-2026| music "ぬくもり": 64% (120.5316/188s)
+[1]Rifka       |15:22:28 | 12-10-2026| music "ぬくもり": 69% (130.49009999999998/188s)
+[1]Rifka       |15:22:41 | 12-10-2026| music "ぬくもり": 74% (140.5998/188s)
+[1]Rifka       |15:22:52 | 12-10-2026| music "ぬくもり": 81% (152.361/188s)
+[1]Rifka       |15:22:52 | 12-10-2026| music "ぬくもり": selesai 152.361s
+[1]Rifka       |15:22:55 | 12-10-2026| music memutar "桃色の頃" (213s)...
+[1]Rifka       |15:23:06 | 12-10-2026| music "桃色の頃": 4% (9.0054/213s)
+[1]Rifka       |15:23:17 | 12-10-2026| music "桃色の頃": 8% (19.0422/213s)
+[1]Rifka       |15:23:28 | 12-10-2026| music "桃色の頃": 13% (29.2707/213s)
+[1]Rifka       |15:23:40 | 12-10-2026| music "桃色の頃": 18% (39.245400000000004/213s)
+[1]Rifka       |15:23:51 | 12-10-2026| music "桃色の頃": 23% (49.5711/213s)
+[1]Rifka       |15:24:02 | 12-10-2026| music "桃色の頃": 27% (59.570100000000004/213s)
+[1]Rifka       |15:24:14 | 12-10-2026| music "桃色の頃": 32% (69.63390000000001/213s)
+[1]Rifka       |15:24:26 | 12-10-2026| music "桃色の頃": 37% (79.77960000000002/213s)
+[1]Rifka       |15:24:37 | 12-10-2026| music "桃色の頃": 42% (90.83790000000002/213s)
+[1]Rifka       |15:24:48 | 12-10-2026| music "桃色の頃": 47% (100.88550000000002/213s)
+[1]Rifka       |15:24:59 | 12-10-2026| music "桃色の頃": 52% (110.87190000000002/213s)
+[1]Rifka       |15:25:10 | 12-10-2026| music "桃色の頃": 56% (120.90690000000002/213s)
+[1]Rifka       |15:25:22 | 12-10-2026| music "桃色の頃": 61% (130.8753/213s)
+[1]Rifka       |15:25:33 | 12-10-2026| music "桃色の頃": 66% (141.09300000000002/213s)
+[1]Rifka       |15:25:45 | 12-10-2026| music "桃色の頃": 70% (151.074/213s)
+[1]Rifka       |15:25:57 | 12-10-2026| music "桃色の頃": 76% (162.1089/213s)
+[1]Rifka       |15:26:08 | 12-10-2026| music "桃色の頃": 81% (172.899/213s)
+[1]Rifka       |15:26:09 | 12-10-2026| music "桃色の頃": selesai 172.899s
+[1]Rifka       |15:26:11 | 12-10-2026| music memutar "記憶の名前" (224s)...
+[1]Rifka       |15:26:22 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Rifka       |15:26:34 | 12-10-2026| music "記憶の名前": 8% (19.104300000000002/224s)
+[1]Rifka       |15:26:45 | 12-10-2026| music "記憶の名前": 13% (29.486700000000003/224s)
+[1]Rifka       |15:26:56 | 12-10-2026| music "記憶の名前": 17% (39.6315/224s)
+[1]Rifka       |15:27:08 | 12-10-2026| music "記憶の名前": 22% (49.6323/224s)
+[1]Rifka       |15:27:19 | 12-10-2026| music "記憶の名前": 26% (59.8158/224s)
+[1]Rifka       |15:27:31 | 12-10-2026| music "記憶の名前": 31% (70.2756/224s)
+[1]Rifka       |15:27:42 | 12-10-2026| music "記憶の名前": 36% (80.739/224s)
+[1]Rifka       |15:27:53 | 12-10-2026| music "記憶の名前": 40% (90.7461/224s)
+[1]Rifka       |15:28:05 | 12-10-2026| music "記憶の名前": 44% (100.7982/224s)
+[1]Rifka       |15:28:16 | 12-10-2026| music "記憶の名前": 49% (111.06899999999999/224s)
+[1]Rifka       |15:28:27 | 12-10-2026| music "記憶の名前": 54% (121.27229999999999/224s)
+[1]Rifka       |15:28:38 | 12-10-2026| music "記憶の名前": 58% (131.5341/224s)
+[1]Rifka       |15:28:50 | 12-10-2026| music "記憶の名前": 63% (141.5574/224s)
+[1]Rifka       |15:29:01 | 12-10-2026| music "記憶の名前": 67% (151.9578/224s)
+[1]Rifka       |15:29:12 | 12-10-2026| music "記憶の名前": 72% (162.0279/224s)
+[1]Rifka       |15:29:25 | 12-10-2026| music "記憶の名前": 76% (172.0683/224s)
+[1]Rifka       |15:29:36 | 12-10-2026| music "記憶の名前": 81% (183.2202/224s)
+[1]Rifka       |15:29:37 | 12-10-2026| music "記憶の名前": selesai 183.2202s
+[1]Rifka       |15:29:40 | 12-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Rifka       |15:29:51 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
+[1]Rifka       |15:30:02 | 12-10-2026| music "Smart Pocket": 8% (19.0053/232s)
+[1]Rifka       |15:30:13 | 12-10-2026| music "Smart Pocket": 12% (29.330099999999998/232s)
+[1]Rifka       |15:30:25 | 12-10-2026| music "Smart Pocket": 16% (39.3516/232s)
+[1]Rifka       |15:30:36 | 12-10-2026| music "Smart Pocket": 21% (49.483799999999995/232s)
+[1]Rifka       |15:30:47 | 12-10-2026| music "Smart Pocket": 25% (59.547599999999996/232s)
+[1]Rifka       |15:30:59 | 12-10-2026| music "Smart Pocket": 30% (69.76079999999999/232s)
+[1]Rifka       |15:31:10 | 12-10-2026| music "Smart Pocket": 34% (80.4879/232s)
+[1]Rifka       |15:31:21 | 12-10-2026| music "Smart Pocket": 39% (90.57419999999999/232s)
+[1]Rifka       |15:31:32 | 12-10-2026| music "Smart Pocket": 43% (100.58579999999999/232s)
+[1]Rifka       |15:31:44 | 12-10-2026| music "Smart Pocket": 47% (110.60279999999999/232s)
+[1]Rifka       |15:31:55 | 12-10-2026| music "Smart Pocket": 51% (120.6261/232s)
+[1]Rifka       |15:32:06 | 12-10-2026| music "Smart Pocket": 56% (130.6854/232s)
+[1]Rifka       |15:32:17 | 12-10-2026| music "Smart Pocket": 60% (140.7321/232s)
+[1]Rifka       |15:32:28 | 12-10-2026| music "Smart Pocket": 65% (150.8463/232s)
+[1]Rifka       |15:32:40 | 12-10-2026| music "Smart Pocket": 69% (160.8597/232s)
+[1]Rifka       |15:32:51 | 12-10-2026| music "Smart Pocket": 73% (171.3357/232s)
+[1]Rifka       |15:33:02 | 12-10-2026| music "Smart Pocket": 78% (181.3194/232s)
+[1]Rifka       |15:33:13 | 12-10-2026| music "Smart Pocket": 82% (191.3742/232s)
+[1]Rifka       |15:33:15 | 12-10-2026| music "Smart Pocket": selesai 191.3742s
+[1]Rifka       |15:33:18 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Rifka       |15:33:30 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Rifka       |15:33:41 | 12-10-2026| music "神様みたいに": 7% (19.6533/254s)
+[1]Rifka       |15:33:53 | 12-10-2026| music "神様みたいに": 11% (29.9088/254s)
+[1]Rifka       |15:34:05 | 12-10-2026| music "神様みたいに": 15% (40.6197/254s)
+[1]Rifka       |15:34:16 | 12-10-2026| music "神様みたいに": 20% (50.9112/254s)
+[1]Rifka       |15:34:27 | 12-10-2026| music "神様みたいに": 24% (60.9651/254s)
+[1]Rifka       |15:34:38 | 12-10-2026| music "神様みたいに": 27% (70.9542/254s)
+[1]Rifka       |15:34:50 | 12-10-2026| music "神様みたいに": 31% (81.1827/254s)
+[1]Rifka       |15:35:01 | 12-10-2026| music "神様みたいに": 35% (91.40129999999999/254s)
+[1]Rifka       |15:35:12 | 12-10-2026| music "神様みたいに": 40% (101.60189999999999/254s)
+[1]Rifka       |15:35:23 | 12-10-2026| music "神様みたいに": 43% (111.64769999999999/254s)
+[1]Rifka       |15:35:35 | 12-10-2026| music "神様みたいに": 47% (121.61969999999998/254s)
+[1]Rifka       |15:35:46 | 12-10-2026| music "神様みたいに": 51% (131.90489999999997/254s)
+[1]Rifka       |15:35:57 | 12-10-2026| music "神様みたいに": 55% (142.04069999999996/254s)
+[1]Rifka       |15:36:08 | 12-10-2026| music "神様みたいに": 59% (152.12339999999995/254s)
+[1]Rifka       |15:36:19 | 12-10-2026| music "神様みたいに": 63% (162.31499999999994/254s)
+[1]Rifka       |15:36:31 | 12-10-2026| music "神様みたいに": 67% (172.30859999999993/254s)
+[1]Rifka       |15:36:42 | 12-10-2026| music "神様みたいに": 71% (182.35259999999994/254s)
+[1]Rifka       |15:36:53 | 12-10-2026| music "神様みたいに": 75% (192.36149999999995/254s)
+[1]Rifka       |15:37:04 | 12-10-2026| music "神様みたいに": 79% (202.47029999999995/254s)
+[1]Rifka       |15:37:15 | 12-10-2026| music "神様みたいに": 83% (212.64119999999994/254s)
+[1]Rifka       |15:37:16 | 12-10-2026| music "神様みたいに": selesai 212.64119999999994s
+[1]Rifka       |15:37:20 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Rifka       |15:37:31 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Rifka       |15:37:43 | 12-10-2026| music "せーので、飛ぼう！": 7% (18.985500000000002/269s)
+[1]Rifka       |15:37:55 | 12-10-2026| music "せーので、飛ぼう！": 11% (30.410100000000003/269s)
+[1]Rifka       |15:38:06 | 12-10-2026| music "せーので、飛ぼう！": 15% (40.7826/269s)
+[1]Rifka       |15:38:17 | 12-10-2026| music "せーので、飛ぼう！": 18% (50.7843/269s)
+[1]Rifka       |15:38:28 | 12-10-2026| music "せーので、飛ぼう！": 22% (60.788700000000006/269s)
+[1]Rifka       |15:38:40 | 12-10-2026| music "せーので、飛ぼう！": 26% (70.80120000000001/269s)
+[1]Rifka       |15:38:51 | 12-10-2026| music "せーので、飛ぼう！": 30% (81.0378/269s)
+[1]Rifka       |15:39:02 | 12-10-2026| music "せーので、飛ぼう！": 33% (91.0368/269s)
+[1]Rifka       |15:39:14 | 12-10-2026| music "せーので、飛ぼう！": 37% (101.2257/269s)
+[1]Rifka       |15:39:25 | 12-10-2026| music "せーので、飛ぼう！": 41% (111.6954/269s)
+[1]Rifka       |15:39:36 | 12-10-2026| music "せーので、飛ぼう！": 45% (121.76100000000001/269s)
+[1]Rifka       |15:39:47 | 12-10-2026| music "せーので、飛ぼう！": 49% (131.83200000000002/269s)
+[1]Rifka       |15:39:59 | 12-10-2026| music "せーので、飛ぼう！": 52% (141.89130000000003/269s)
+[1]Rifka       |15:40:11 | 12-10-2026| music "せーので、飛ぼう！": 56% (152.30250000000004/269s)
+[1]Rifka       |15:40:22 | 12-10-2026| music "せーので、飛ぼう！": 60% (162.93600000000004/269s)
+[1]Rifka       |15:40:33 | 12-10-2026| music "せーので、飛ぼう！": 64% (173.01420000000005/269s)
+[1]Rifka       |15:40:44 | 12-10-2026| music "せーので、飛ぼう！": 68% (183.09600000000003/269s)
+[1]Rifka       |15:40:56 | 12-10-2026| music "せーので、飛ぼう！": 71% (193.36230000000003/269s)
+[1]Rifka       |15:41:07 | 12-10-2026| music "せーので、飛ぼう！": 75% (203.40990000000002/269s)
+[1]Rifka       |15:41:18 | 12-10-2026| music "せーので、飛ぼう！": 79% (213.41340000000002/269s)
+[1]Rifka       |15:41:30 | 12-10-2026| music "せーので、飛ぼう！": 83% (224.03880000000004/269s)
+[1]Rifka       |15:41:31 | 12-10-2026| music "せーので、飛ぼう！": selesai 224.03880000000004s
+[1]Rifka       |15:41:33 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Rifka       |15:41:44 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Rifka       |15:41:56 | 12-10-2026| music "ON CHAIN NEXUS": 6% (19.1574/276s)
+[1]Rifka       |15:42:07 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.5182/276s)
+[1]Rifka       |15:42:18 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.571200000000005/276s)
+[1]Rifka       |15:42:30 | 12-10-2026| music "ON CHAIN NEXUS": 17% (49.65840000000001/276s)
+[1]Rifka       |15:42:41 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.00120000000001/276s)
+[1]Rifka       |15:42:52 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.00110000000001/276s)
+[1]Rifka       |15:43:03 | 12-10-2026| music "ON CHAIN NEXUS": 28% (80.02170000000001/276s)
+[1]Rifka       |15:43:15 | 12-10-2026| music "ON CHAIN NEXUS": 32% (90.04140000000001/276s)
+[1]Rifka       |15:43:26 | 12-10-2026| music "ON CHAIN NEXUS": 36% (100.233/276s)
+[1]Rifka       |15:43:37 | 12-10-2026| music "ON CHAIN NEXUS": 39% (110.29320000000001/276s)
+[1]Rifka       |15:43:49 | 12-10-2026| music "ON CHAIN NEXUS": 43% (120.34170000000002/276s)
+[1]Rifka       |15:44:01 | 12-10-2026| music "ON CHAIN NEXUS": 47% (130.7898/276s)
+[1]Rifka       |15:44:12 | 12-10-2026| music "ON CHAIN NEXUS": 51% (141.69420000000002/276s)
+[1]Rifka       |15:44:23 | 12-10-2026| music "ON CHAIN NEXUS": 54% (151.76610000000002/276s)
+[1]Rifka       |15:44:35 | 12-10-2026| music "ON CHAIN NEXUS": 58% (161.81730000000002/276s)
+[1]Rifka       |15:44:46 | 12-10-2026| music "ON CHAIN NEXUS": 62% (172.5354/276s)
+[1]Rifka       |15:44:57 | 12-10-2026| music "ON CHAIN NEXUS": 66% (182.57580000000002/276s)
+[1]Rifka       |15:45:09 | 12-10-2026| music "ON CHAIN NEXUS": 69% (192.59550000000002/276s)
+[1]Rifka       |15:45:20 | 12-10-2026| music "ON CHAIN NEXUS": 73% (203.30370000000002/276s)
+[1]Rifka       |15:45:31 | 12-10-2026| music "ON CHAIN NEXUS": 77% (213.34590000000003/276s)
+[1]Rifka       |15:45:44 | 12-10-2026| music "ON CHAIN NEXUS": 80% (223.39260000000002/276s)
+[1]Rifka       |15:45:45 | 12-10-2026| music "ON CHAIN NEXUS": selesai 223.39260000000002s
+[1]Rifka       |15:45:46 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Rifka       |15:45:48 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Rifka       |15:45:52 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Rifka       |15:45:56 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Rifka menjalankan: Claim Missions
-[1]Rifka       |08:48:03 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Rifka       |15:46:00 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Rifka       |15:46:00 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Rifka       |15:46:00 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rifka menjalankan: Check Eligibility
 
 --- eligibility [1]Rifka ---
-  @rifkagayatri | score=860 rank=6774
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music    [--------------------] 0/11
-  artikel  [###-----------------] 3/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  @rifkagayatri | score=900 rank=6828
+  tasks    [##################--] 70/79
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Rifka menjalankan: Read Manga
-[1]Rifka       |08:48:06 | 11-10-2026| manga: 13/13 chapter belum completed
-[1]Rifka       |08:48:06 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Rifka       |08:48:12 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Rifka       |08:48:17 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 4s
-[1]Rifka       |08:48:23 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Rifka       |08:48:29 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 16s
-[1]Rifka       |08:48:34 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 22s
-[1]Rifka       |08:48:38 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 27s
-[1]Rifka       |08:48:43 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 31s
-[1]Rifka       |08:48:48 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 36s
-[1]Rifka       |08:48:53 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 40s
-[1]Rifka       |08:48:58 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 46s
-[1]Rifka       |08:49:03 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 50s
-[1]Rifka       |08:49:07 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 56s
-[1]Rifka       |08:49:12 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 60s
-[1]Rifka       |08:49:17 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 65s
-[1]Rifka       |08:49:22 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 70s
-[1]Rifka       |08:49:26 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 74s
-[1]Rifka       |08:49:30 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 79s
-[1]Rifka       |08:49:35 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 83s
-[1]Rifka       |08:49:39 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 87s
-[1]Rifka       |08:49:43 | 11-10-2026| manga ch1 (1): COMPLETED
-[1]Rifka       |08:49:46 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Rifka       |08:49:51 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Rifka       |08:49:56 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
-[1]Rifka       |08:50:00 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Rifka       |08:50:04 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 13s
-[1]Rifka       |08:50:10 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 17s
-[1]Rifka       |08:50:14 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Rifka       |08:50:19 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 27s
-[1]Rifka       |08:50:24 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
-[1]Rifka       |08:50:28 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Rifka       |08:50:33 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
-[1]Rifka       |08:50:37 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
-[1]Rifka       |08:50:42 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 50s
-[1]Rifka       |08:50:46 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 55s
-[1]Rifka       |08:50:51 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 59s
-[1]Rifka       |08:50:55 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 64s
-[1]Rifka       |08:51:00 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 68s
-[1]Rifka       |08:51:05 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 73s
-[1]Rifka       |08:51:12 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 78s
-[1]Rifka       |08:51:16 | 11-10-2026| manga ch2 (450001): COMPLETED
-[1]Rifka       |08:51:19 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Rifka       |08:51:24 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Rifka       |08:51:29 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
-[1]Rifka       |08:51:36 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Rifka       |08:51:41 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 16s
-[1]Rifka       |08:51:47 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 21s
-[1]Rifka       |08:51:52 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 27s
-[1]Rifka       |08:51:57 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 32s
-[1]Rifka       |08:52:03 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 37s
-[1]Rifka       |08:52:09 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 43s
-[1]Rifka       |08:52:14 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 49s
-[1]Rifka       |08:52:18 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 54s
-[1]Rifka       |08:52:22 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 58s
-[1]Rifka       |08:52:27 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 62s
-[1]Rifka       |08:52:32 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 67s
-[1]Rifka       |08:52:37 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 72s
-[1]Rifka       |08:52:42 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 77s
-[1]Rifka       |08:52:46 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 82s
-[1]Rifka       |08:52:52 | 11-10-2026| manga ch3 (2160001): COMPLETED
-[1]Rifka       |08:52:55 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Rifka       |08:53:03 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Rifka       |08:53:08 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Rifka       |08:53:13 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
-[1]Rifka       |08:53:17 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
-[1]Rifka       |08:53:21 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
-[1]Rifka       |08:53:26 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
-[1]Rifka       |08:53:31 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
-[1]Rifka       |08:53:36 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
-[1]Rifka       |08:53:40 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
-[1]Rifka       |08:53:45 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 42s
-[1]Rifka       |08:53:49 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 47s
-[1]Rifka       |08:53:53 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 51s
-[1]Rifka       |08:53:58 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 55s
-[1]Rifka       |08:54:03 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 59s
-[1]Rifka       |08:54:07 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 64s
-[1]Rifka       |08:54:13 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 69s
-[1]Rifka       |08:54:18 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
-[1]Rifka       |08:54:25 | 11-10-2026| manga ch4 (2400001): COMPLETED
-[1]Rifka       |08:54:28 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Rifka       |08:54:33 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Rifka       |08:54:37 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
-[1]Rifka       |08:54:45 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Rifka       |08:54:51 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 16s
-[1]Rifka       |08:54:57 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 22s
-[1]Rifka       |08:55:02 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 28s
-[1]Rifka       |08:55:06 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 33s
-[1]Rifka       |08:55:13 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 37s
-[1]Rifka       |08:55:17 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 44s
-[1]Rifka       |08:55:25 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 48s
-[1]Rifka       |08:55:29 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 56s
-[1]Rifka       |08:55:34 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 60s
-[1]Rifka       |08:55:39 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 65s
-[1]Rifka       |08:55:46 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 70s
-[1]Rifka       |08:55:52 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 77s
-[1]Rifka       |08:55:57 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 83s
-[1]Rifka       |08:56:03 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 88s
-[1]Rifka       |08:56:08 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 94s
-[1]Rifka       |08:56:13 | 11-10-2026| manga ch5 (2490001): COMPLETED
-[1]Rifka       |08:56:16 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Rifka       |08:56:21 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Rifka       |08:56:25 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 4s
-[1]Rifka       |08:56:30 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Rifka       |08:56:35 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 13s
-[1]Rifka       |08:56:39 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
-[1]Rifka       |08:56:44 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
-[1]Rifka       |08:56:49 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
-[1]Rifka       |08:56:54 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Rifka       |08:56:59 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
-[1]Rifka       |08:57:03 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 42s
-[1]Rifka       |08:57:08 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 47s
-[1]Rifka       |08:57:12 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 51s
-[1]Rifka       |08:57:16 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 56s
-[1]Rifka       |08:57:20 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 60s
-[1]Rifka       |08:57:25 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 64s
-[1]Rifka       |08:57:30 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 68s
-[1]Rifka       |08:57:38 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 73s
-[1]Rifka       |08:57:43 | 11-10-2026| manga ch6 (2610001): COMPLETED
-[1]Rifka       |08:57:46 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Rifka       |08:57:52 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Rifka       |08:57:56 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
-[1]Rifka       |08:58:02 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
-[1]Rifka       |08:58:06 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
-[1]Rifka       |08:58:11 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Rifka       |08:58:17 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
-[1]Rifka       |08:58:21 | 11-10-2026| manga ch1: page 7 GAGAL http=503
-[1]Rifka       |08:58:24 | 11-10-2026| manga ch1: page 8 GAGAL http=503
-[1]Rifka       |08:58:30 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 33s
-[1]Rifka       |08:58:35 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 39s
-[1]Rifka       |08:58:40 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 44s
-[1]Rifka       |08:58:45 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 49s
-[1]Rifka       |08:58:50 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 54s
-[1]Rifka       |08:58:55 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 58s
-[1]Rifka       |08:59:00 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 63s
-[1]Rifka       |08:59:07 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 68s
-[1]Rifka       |08:59:11 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 75s
-[1]Rifka       |08:59:16 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 79s
-[1]Rifka       |08:59:21 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 85s
-[1]Rifka       |08:59:25 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
-[1]Rifka       |08:59:30 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 94s
-[1]Rifka       |08:59:34 | 11-10-2026| manga ch1 (180003): COMPLETED
-[1]Rifka       |08:59:37 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Rifka       |08:59:43 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Rifka       |08:59:47 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
-[1]Rifka       |08:59:51 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Rifka       |09:00:01 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
-[1]Rifka       |09:00:08 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 23s
-[1]Rifka       |09:00:13 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 29s
-[1]Rifka       |09:00:17 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 35s
-[1]Rifka       |09:00:21 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 39s
-[1]Rifka       |09:00:27 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 43s
-[1]Rifka       |09:00:34 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 49s
-[1]Rifka       |09:00:38 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 55s
-[1]Rifka       |09:00:42 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 60s
-[1]Rifka       |09:00:47 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 64s
-[1]Rifka       |09:00:53 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 69s
-[1]Rifka       |09:00:58 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 75s
-[1]Rifka       |09:01:02 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 79s
-[1]Rifka       |09:01:06 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 84s
-[1]Rifka       |09:01:10 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 88s
-[1]Rifka       |09:01:15 | 11-10-2026| manga ch2 (990005): COMPLETED
-[1]Rifka       |09:01:18 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Rifka       |09:01:25 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Rifka       |09:01:31 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Rifka       |09:01:38 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 11s
-[1]Rifka       |09:01:43 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 18s
-[1]Rifka       |09:01:47 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 23s
-[1]Rifka       |09:01:52 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 27s
-[1]Rifka       |09:01:56 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 32s
-[1]Rifka       |09:02:01 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 36s
-[1]Rifka       |09:02:07 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 41s
-[1]Rifka       |09:02:12 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 47s
-[1]Rifka       |09:02:16 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 52s
-[1]Rifka       |09:02:20 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 56s
-[1]Rifka       |09:02:26 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 60s
-[1]Rifka       |09:02:31 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 66s
-[1]Rifka       |09:02:38 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 71s
-[1]Rifka       |09:02:42 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 78s
-[1]Rifka       |09:02:49 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 82s
-[1]Rifka       |09:02:54 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 88s
-[1]Rifka       |09:03:01 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 94s
-[1]Rifka       |09:03:07 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 101s
-[1]Rifka       |09:03:12 | 11-10-2026| manga ch3 (1980001): COMPLETED
-[1]Rifka       |09:03:15 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Rifka       |09:03:21 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Rifka       |09:03:28 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Rifka       |09:03:33 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 12s
-[1]Rifka       |09:03:39 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 17s
-[1]Rifka       |09:03:44 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 23s
-[1]Rifka       |09:03:48 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 27s
-[1]Rifka       |09:03:53 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 32s
-[1]Rifka       |09:03:57 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 37s
-[1]Rifka       |09:04:02 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 41s
-[1]Rifka       |09:04:06 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Rifka       |09:04:09 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Rifka       |09:04:15 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Rifka       |09:04:19 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Rifka       |09:04:23 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Rifka       |09:04:28 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 13s
-[1]Rifka       |09:04:32 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
-[1]Rifka       |09:04:37 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
-[1]Rifka       |09:04:41 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 27s
-[1]Rifka       |09:04:45 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 31s
-[1]Rifka       |09:04:50 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 35s
-[1]Rifka       |09:04:54 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 40s
-[1]Rifka       |09:05:00 | 11-10-2026| manga ch1 (2070001): COMPLETED
-[1]Rifka       |09:05:03 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Rifka       |09:05:14 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Rifka       |09:05:19 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 9s
-[1]Rifka       |09:05:26 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 14s
-[1]Rifka       |09:05:32 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 20s
-[1]Rifka       |09:05:38 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 27s
-[1]Rifka       |09:05:46 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 33s
-[1]Rifka       |09:05:50 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 41s
-[1]Rifka       |09:05:59 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 45s
-[1]Rifka       |09:06:05 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 54s
-[1]Rifka       |09:06:12 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 60s
-[1]Rifka       |09:06:20 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 66s
-[1]Rifka       |09:06:26 | 11-10-2026| manga ch2 (2520001): COMPLETED
-[1]Rifka       |09:06:29 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Rifka       |09:06:37 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Rifka       |09:06:43 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 6s
-[1]Rifka       |09:06:47 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 12s
-[1]Rifka       |09:06:52 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 17s
-[1]Rifka       |09:06:56 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 21s
-[1]Rifka       |09:07:01 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 26s
-[1]Rifka       |09:07:06 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 31s
-[1]Rifka       |09:07:15 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 36s
-[1]Rifka       |09:07:21 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 44s
-[1]Rifka       |09:07:26 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 50s
-[1]Rifka       |09:07:32 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 55s
-[1]Rifka       |09:07:37 | 11-10-2026| manga ch3 (2550001): COMPLETED
+[1]Rifka       |15:46:04 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Rifka menjalankan: Get Gift
-[1]Rifka       |09:07:40 | 11-10-2026| gift: 3/3 belum diterima
-[1]Rifka       |09:07:41 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Rifka       |09:07:46 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Rifka       |09:07:50 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Rifka       |15:46:05 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Rifka menjalankan: Setup Profile
-[1]Rifka       |09:07:53 | 11-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Rifka       |09:07:54 | 11-10-2026| profile: OK bio="https://x.com/rifkagayatri" fav=yuki awarded=true +10pt
+[1]Rifka       |15:46:05 | 12-10-2026| profile: bio="https://x.com/rifkagayatri" fav=yuki rewardAt=1791709674
+[1]Rifka       |15:46:05 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Rifka menjalankan: Bind Wallet
-[1]Rifka       |09:07:55 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 3TzQktu3NLATBDrJ3iBBCY48swpBCHASHqxdRFMr7CEM (cek cocok dengan wallet kamu!)
-[1]Rifka       |09:07:55 | 11-10-2026| wallet: /api/wallet OK (solana)
-[1]Rifka       |09:07:56 | 11-10-2026| wallet: /api/sol-address OK
+[1]Rifka       |15:46:06 | 12-10-2026| wallet: sudah terikat 3TzQktu3NL... (solana)
 
 == RINGKASAN ==
-- Rifka: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/2 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Rifka: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 1/1 completed | musik 11 trek ~1848.8448000000003s | artikel 21 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
