@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Rifka =====
-[1]Rifka       |06:40:13 | 30-10-2026| login OK @rifkagayatri | score=2420 rank=3249
-[1]Rifka       |06:40:13 | 30-10-2026| serverTime=2026-10-30T06:40:12.000Z local=2026-10-30T06:40:13.027Z
+[1]Rifka       |06:30:49 | 31-10-2026| login OK @rifkagayatri | score=2500 rank=3143
+[1]Rifka       |06:30:49 | 31-10-2026| serverTime=2026-10-31T06:30:48.000Z local=2026-10-31T06:30:49.015Z
 --> [1]Rifka menjalankan: Claim Daily
-[1]Rifka       |06:40:14 | 30-10-2026| daily: OK +10 poin score=2430
---> [1]Rifka menjalankan: Auto All Tasks (7 pending)
-[1]Rifka       |06:40:15 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057278020800874
-[1]Rifka       |06:40:15 | 30-10-2026| delay 10s...
-[1]Rifka       |06:40:27 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057020596398795
-[1]Rifka       |06:40:27 | 30-10-2026| delay 10s...
-[1]Rifka       |06:40:39 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057102832105333
-[1]Rifka       |06:40:39 | 30-10-2026| delay 10s...
-[1]Rifka       |06:40:51 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057252677647979
-[1]Rifka       |06:40:51 | 30-10-2026| delay 10s...
-[1]Rifka       |06:41:02 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057278624974653
-[1]Rifka       |06:41:02 | 30-10-2026| delay 10s...
-[1]Rifka       |06:41:15 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rifkagayatri/status/2116057473934404873
-[1]Rifka       |06:41:15 | 30-10-2026| delay 10s...
-[1]Rifka       |06:41:26 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Rifka       |06:41:26 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Rifka       |06:41:28 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/rifkagayatri/status/2116057490356291993
+[1]Rifka       |06:30:51 | 31-10-2026| daily: OK +10 poin score=2510
+--> [1]Rifka menjalankan: Auto All Tasks (5 pending)
+[1]Rifka       |06:30:53 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rifkagayatri/status/2116417267349730571
+[1]Rifka       |06:30:53 | 31-10-2026| delay 10s...
+[1]Rifka       |06:31:04 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rifkagayatri/status/2116417387896171949
+[1]Rifka       |06:31:04 | 31-10-2026| delay 10s...
+[1]Rifka       |06:31:16 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rifkagayatri/status/2116417310915361781
+[1]Rifka       |06:31:16 | 31-10-2026| delay 10s...
+[1]Rifka       |06:31:28 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rifkagayatri/status/2116417276898175144
+[1]Rifka       |06:31:28 | 31-10-2026| delay 10s...
+[1]Rifka       |06:31:40 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rifkagayatri/status/2116417435992571530
+[1]Rifka       |06:31:40 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Rifka       |06:31:42 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/rifkagayatri/status/2116417442665853636
 --> [1]Rifka menjalankan: Watch Anime
-[1]Rifka       |06:41:28 | 30-10-2026| watch: semua video sudah completed
+[1]Rifka       |06:31:42 | 31-10-2026| watch: semua video sudah completed
 --> [1]Rifka menjalankan: Read Article
-[1]Rifka       |06:41:29 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Rifka       |06:41:30 | 30-10-2026| mint eligibility: {"userId":"1876228153850675200","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@grifkaa","status":"submitted","revision":"56889b82-bdbd-4a36-b277-427d83714d5d",
-[1]Rifka       |06:41:30 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Rifka       |06:31:44 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Rifka       |06:31:44 | 31-10-2026| mint eligibility: {"userId":"1876228153850675200","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@grifkaa","status":"submitted","revision":"56889b82-bdbd-4a36-b277-427d83714d5d",
+[1]Rifka       |06:31:52 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Rifka       |06:32:01 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Rifka menjalankan: Quiz Anime
 --> [1]Rifka menjalankan: Music Missions (realtime, bisa lama!)
-[1]Rifka       |06:41:32 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Rifka       |06:41:33 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Rifka       |06:41:33 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Rifka       |06:41:33 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Rifka       |06:32:06 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Rifka       |06:32:06 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Rifka       |06:32:06 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Rifka       |06:32:06 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rifka menjalankan: Claim Missions
-[1]Rifka       |06:41:33 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Rifka       |06:41:33 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Rifka       |06:41:33 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Rifka       |06:32:07 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Rifka       |06:32:07 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Rifka       |06:32:07 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Rifka menjalankan: Check Eligibility
 
 --- eligibility [1]Rifka ---
-  @rifkagayatri | score=2420 rank=3249
-  tasks    [#######-------------] 4/11
+  @rifkagayatri | score=2500 rank=3143
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Rifka menjalankan: Read Manga
-[1]Rifka       |06:41:37 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Rifka       |06:32:10 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Rifka menjalankan: Get Gift
-[1]Rifka       |06:41:37 | 30-10-2026| gift: 1/6 belum diterima
-[1]Rifka       |06:41:39 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Rifka       |06:32:11 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Rifka menjalankan: Setup Profile
-[1]Rifka       |06:41:41 | 30-10-2026| profile: bio="https://x.com/rifkagayatri" fav=yuki rewardAt=1791709674
-[1]Rifka       |06:41:41 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Rifka       |06:32:11 | 31-10-2026| profile: bio="https://x.com/rifkagayatri" fav=yuki rewardAt=1791709674
+[1]Rifka       |06:32:11 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Rifka menjalankan: Bind Wallet
-[1]Rifka       |06:41:41 | 30-10-2026| wallet: sudah terikat 3TzQktu3NL... (solana)
+[1]Rifka       |06:32:12 | 31-10-2026| wallet: sudah terikat 3TzQktu3NL... (solana)
 
 == RINGKASAN ==
-- Rifka: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Rifka: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
